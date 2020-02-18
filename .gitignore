@@ -1,0 +1,16 @@
+.DS_Store
+/jackson
+/images
+screenshot.jpg
+/fonts
+bootstrap.min.js
+/assets/bootstrap
+respond.min.js
+modernizr-2.6.2.*.js
+jquery*
+bootstrap.*
+owl*
+icomoon.css
+flexslider.css
+animate.css
+custom-nav-walker.php
